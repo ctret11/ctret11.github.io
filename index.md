@@ -21,19 +21,12 @@ affiliations:
 
 
 ## Background
-NULL:
 
 ## Objective
-NULL:
 
 ## Key Ideas
-NULL:
-
-## Table: Comparison of Computable and Non-Computable Numbers
-NULL:
 
 ## Significance
-NULL:
 
 ## Citation
-NULL:
+
