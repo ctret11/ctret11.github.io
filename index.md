@@ -42,16 +42,10 @@ NULL:
 ## Objective
 NULL:
 
-
 ## Key Ideas
 NULL:
 
-![Turing Machine](/static/image/Turing_machine.png)
-
-*Figure 1: A representation of a Turing Machine. Source: [Wiki](https://en.wikipedia.org/wiki/Turing_machine).*
-
 ## Table: Comparison of Computable and Non-Computable Numbers
-
 NULL:
 
 ## Significance
@@ -59,6 +53,3 @@ NULL:
 
 ## Citation
 NULL:
-  year={1936}
-}
-```
